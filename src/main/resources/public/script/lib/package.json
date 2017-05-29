@@ -1,0 +1,29 @@
+{
+  "name": "shriram-test",
+  "version": "1.0.0",
+  "description": "This script should contain all the libraries that are needed for javascript and 'npm install' should be run to install the libraries",
+  "keywords": [
+    "shriram",
+    "dbappgen"
+  ],
+  "homepage": "http://www.ironpillars.com",
+  "bugs": "http://www.ironpillars.com/bugs",
+  "author": "Shriram Mani",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/common": "^4.0.1",
+    "@angular/platform-browser": "^4.0.1",
+    "@angular/compiler": "^4.0.1",
+    "@angular/platform-browser-dynamic": "^4.0.1",
+    "@angular/core": "^4.0.1",
+    "core-js": "^2.4.1",
+    "rxjs": "5.0.1",
+    "zone.js": "^0.8.4",
+    "systemjs": "^0.20.12",
+    "typescript": "^2.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shriram/ipillars/appcodegen.git"
+  }
+}
